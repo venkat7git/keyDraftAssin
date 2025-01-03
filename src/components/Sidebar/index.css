@@ -1,0 +1,33 @@
+.sidebar{
+    color: #4c4e64;
+}
+
+.options-container{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.logo-image-container{
+    padding: 20px 0px 0px 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.drop-down-item{
+    
+    
+    
+}
+
+.logo1{
+    width: 22%;
+}
+.logo2{
+    width: 75%;
+}
+
+
+.sidebar-span{
+    margin-left: 10px;
+}

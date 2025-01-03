@@ -1,0 +1,94 @@
+.management-container{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px 0px 0px 30px;
+}
+
+.table-container{
+    /* border: 1px solid #a4a5ab;
+    padding: 10px;
+    border-radius: 15px;
+ */}
+
+ .search-input-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+ }
+
+.search-input{
+    margin-left: 5px;
+    height: 30px;
+    max-width: 200px;
+    outline: 0px;
+    border: none;
+ }
+
+ .add-search-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+ }
+
+ .upload-container{
+    width: 140px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+.data-buttons{
+    border: none;
+    background-color: transparent;
+}
+ .data-buttons:hover{
+    cursor: pointer;
+ }
+
+ .add-import-export-container{
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+ }
+
+.branch-container{
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    font-size: 22px;
+    color: #4c4e64;
+}
+
+
+.profile-container{
+    
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.img-name-container{
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-image{
+    width: 45px;
+    border-radius: 50px;
+
+}
+
+.profile-name{
+    margin-top: 5px;
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 15px;
+}
