@@ -15,7 +15,7 @@ function App() {
         <Routes>
           <Route path="/branch" element={<BranchManagement/>} />
           <Route path ='/excel-upload' element={<ExcelUploader/>}/>
-          {/* Add other routes here */}
+          
         </Routes>
       </div>
     </Router>
